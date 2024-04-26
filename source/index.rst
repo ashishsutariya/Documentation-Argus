@@ -27,3 +27,4 @@ ARGUS emerges as a software application designed to empower researchers by strea
    pages/index
    pages/introduction
    pages/functionality
+   pages/Reading and Scanning
