@@ -26,7 +26,21 @@ ARGUS emerges as a software application designed to empower researchers by strea
 
    pages/index
    pages/introduction
+
+
+.. toctree::
+   :hidden:
+   :maxdepth: 10
+   :caption: Functionality
+
    pages/functionality
    pages/Reading and Scanning
    pages/Future Advancements
+
+
+.. toctree::
+   :hidden:
+   :maxdepth: 10
+   :caption: Conclusion
+
    pages/Conclusion
