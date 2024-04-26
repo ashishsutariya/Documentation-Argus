@@ -1,0 +1,50 @@
+
+Functionality
++++++++++++++
+
+Document Retrieval Functionality: Streamlined Search with Cosine Similarity
+===========================================================================
+
+ARGUS empowers researchers to efficiently navigate vast collections of research articles through its document retrieval functionality. This functionality leverages a well-established information retrieval technique known as Cosine Similarity to identify and rank documents most relevant to the user's research query.
+
+1. User Input
+--------------
+
+Researchers initiate the search process by uploading their research papers (typically in PDF format) and specifying their search query. The search query typically consists of keywords or phrases that represent the research focus.
+
+2. Preprocessing
+-----------------
+
+- **PDF Conversion:** Upon upload, ARGUS utilizes a library like Python2HTMLex to convert the uploaded PDFs into HTML format. This conversion allows for easier text extraction and processing compared to working directly with the PDF structure.
+
+- **Text Extraction:** The pdf-dist library extracts the text content from the converted HTML files. This extracted text forms the basis for calculating the relevance of each document to the user's search query.
+
+3. Information Retrieval with Cosine Similarity
+------------------------------------------------
+
+- **TF-IDF Vectorization:** Both the extracted text from each research paper and the user's search query keywords undergo a process called TF-IDF (Term Frequency-Inverse Document Frequency) vectorization. This process assigns weights to each term (word) based on its frequency within the document and its overall frequency across the entire collection of uploaded papers. Terms that appear frequently within a specific document but rarely across the entire collection receive higher weights, indicating their potential importance within that document.
+
+- **Similarity Calculation:** Cosine Similarity is then employed to calculate the similarity score between the TF-IDF vector of the user's search query and the TF-IDF vector of each research paper. This score essentially reflects the cosine of the angle between the two vectors in a high-dimensional space, where each dimension represents a unique term. Scores closer to 1 indicate a higher degree of similarity, meaning the document content aligns more closely with the keywords and concepts specified in the search query.
+
+4. Ranked Results
+-----------------
+
+Finally, ARGUS ranks the research papers based on their calculated cosine similarity scores. Documents with higher scores, indicating a closer match to the user's research interests, are presented at the top of the retrieved list. This ranking system efficiently directs researchers towards the most relevant articles, minimizing the time spent sifting through irrelevant literature.
+
+While Cosine Similarity is a powerful technique, it's important to acknowledge its limitations. The accuracy of retrieved results heavily relies on the quality of the user-defined keywords and the completeness of the text extraction process.
+
+
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

@@ -1,0 +1,56 @@
+Introduction
+============
+
+ARGUS emerges as a software application designed to empower researchers by streamlining the literature review process. It functions as a one-stop solution, offering a suite of functionalities that automate key tasks and enhance information visualization. This user-friendly application aims to revolutionize the way researchers approach literature reviews, allowing them to dedicate more time to critical analysis and discovery.
+
+
+
+Challenges of Traditional Literature Reviews
+--------------------------------------------
+
+While traditional methods hold value, they are hampered by several limitations:
+
+- Time-Consuming: Researchers spend significant time manually searching for relevant articles across various databases, followed by individual paper screening. This manual process can significantly delay research progress.
+  
+- Error-Prone: Extracting key data and synthesizing information from research articles is often a manual task, susceptible to human error. This can impact the accuracy and reliability of the entire review.
+  
+- Limited Focus: Researchers may spend significant time on repetitive tasks, hindering the in-depth analysis of findings and the exploration of emerging trends within the literature.
+
+ARGUS tackles these challenges by providing an integrated set of tools that automate document retrieval, facilitate assisted reading, and enable information extraction. By overcoming these limitations, ARGUS empowers researchers to conduct more efficient, accurate, and insightful literature reviews, ultimately accelerating scientific discovery.
+
+System Design: ARGUS - A Modular Approach to Streamlined Reviews
+----------------------------------------------------------------
+
+ARGUS employs a modular architecture designed for efficiency and scalability. This breakdown allows for independent development and maintenance of each component while ensuring seamless integration for a user-friendly experience. Here's a closer look at the key components:
+
+1. User Interface (Front-End)
+   ----------------------------
+
+   **Technology Stack:** ReactJS is a popular choice for the front-end development due to its component-based approach and efficient rendering capabilities. This allows for a user-friendly interface with modular components for uploading research papers, specifying search queries, and displaying ranked results with keyword highlighting.
+
+2. Back-End (Server-Side)
+   ------------------------
+
+   **Technology Stack:** ExpressJS provides a lightweight and robust framework for building the server-side logic of ARGUS. It efficiently handles user interactions, processes search queries, and interacts with data storage and processing components. This ensures smooth communication between the user interface and the functionalities running on the server.
+
+3. Data Storage
+   --------------
+
+   **Current Approach:** For initial development and smaller datasets, a folder-based approach on the server-side simplifies initial implementation. This allows for storing uploaded research papers within a designated folder structure based on user uploads or search criteria.
+
+   **Future Considerations:** As the user base and data volume grow, integrating a database solution like MySQL or PostgreSQL will become necessary. This will enable more efficient data management, retrieval, and scalability for larger datasets.
+
+4. Data Processing Libraries
+   ---------------------------
+
+   ARGUS leverages various libraries to handle data processing tasks critical for document retrieval and information extraction:
+
+   - **PDF Conversion:** Python2HTMLex (C library): This library simplifies the conversion of uploaded PDFs to HTML format. The converted HTML format enables efficient text extraction and information retrieval processes within ARGUS.
+
+   - **Text Extraction:** pdf-dist library: This library facilitates the extraction of text content from the converted HTML files. This extracted text forms the basis for calculating cosine similarity scores during document retrieval.
+
+   - **Cosine Similarity Calculation:** The cosine similarity scores are calculated using established algorithms within the server-side code (implemented with languages like Python or Javascript). These algorithms compare the TF-IDF (Term Frequency-Inverse Document Frequency) vectors of the search query keywords with the TF-IDF vectors of each research paper. This comparison allows ARGUS to rank documents based on their relevance to the user's specific research question.
+
+This modular architecture with its specific technology stack empowers ARGUS to deliver efficient and scalable functionalities for researchers conducting literature reviews. As ARGUS evolves, the data storage solution can be upgraded to a database, and additional libraries or functionalities can be integrated to enhance its capabilities.
+
+
