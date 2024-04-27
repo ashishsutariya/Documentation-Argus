@@ -2,7 +2,7 @@
 Functionality
 ==============
 
-Document Retrieval Functionality: Streamlined Search with Cosine Similarity
+Document Retrieval Functionality
 ----------------------------------------------------------------------------
 
 ARGUS empowers researchers to efficiently navigate vast collections of research articles through its document retrieval functionality. This functionality leverages a well-established information retrieval technique known as Cosine Similarity to identify and rank documents most relevant to the user's research query.
