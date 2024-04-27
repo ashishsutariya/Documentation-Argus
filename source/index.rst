@@ -10,13 +10,14 @@ Welcome to ARGUS!
 Objective
 -----------
 
-ARGUS is an innovative tool designed to revolutionize the process of literature reviews for researchers across various disciplines. By automating key tasks involved in systematic reviews, ARGUS aims to enhance efficiency, accuracy, and data organization, ultimately empowering researchers to conduct more effective and comprehensive reviews of existing literature. ARGUS can be accessed from any web browser that supports JavaScript.
+ARGUS, your ultimate research companion, is here to transform the way you conduct literature reviews. Whether you're delving into the depths of academia or exploring the frontiers of scientific research, ARGUS simplifies the process by automating key tasks, saving you time and effort. With ARGUS, interdisciplinary researchers can effortlessly survey research papers based on their provided keywords, swiftly gathering relevant literature to inform their studies. Say goodbye to the tedious manual process and embrace the efficiency of ARGUS. It's time to unlock new insights and propel your research forward!
 
 .. note::
    
-   This project is under active development. Exciting new features and enhancements are on the horizon!
+   Dive in and explore ARGUS's powerful features. Keep an eye out for future updates as we continue to enhance your research experience!
 
-Ready to embark on a journey of streamlined literature reviews? Let ARGUS be your guide!
+Ready to revolutionize your literature reviews? Let ARGUS lead the way!
+
 
 
 .. toctree::
