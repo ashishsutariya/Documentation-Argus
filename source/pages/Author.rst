@@ -20,7 +20,7 @@ Connect with Me
 I welcome any feedback, questions, or collaboration opportunities related to ARGUS. Feel free to reach out to me via email or connect with me on GitHub:
 
 
-* Ashish Sutariya <asutari1@binghamton.edu> :raw-html:`<div class="github-profile-badge" data-user="ParmarTarun"></div>`
+* Ashish Sutariya <asutari1@binghamton.edu> :raw-html:`<div class="github-profile-badge" data-user="ashishsutariya"></div>`
 
 
 
