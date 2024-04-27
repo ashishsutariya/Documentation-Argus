@@ -64,3 +64,10 @@ Ready to revolutionize your literature reviews? Let ARGUS lead the way!
    :caption: Conclusion
 
    pages/Conclusion
+
+.. toctree::
+   :hidden:
+   :maxdepth: 10
+   :caption: Author
+
+   pages/Author
