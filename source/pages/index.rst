@@ -1,21 +1,25 @@
-.. argus documents documentation master file, created by
-   sphinx-quickstart on Thu Apr 25 23:45:46 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+ARGUS: Automated Research Guidance & User Support
+==================================================
 
+.. image:: _images/logo.png
+   :align: center
 
-Argus
-============
+Welcome to ARGUS!
+-------------------
 
-Welcome to argus documents's documentation!
--------------------------------------------
+Introduction
+--------------
 
-ARGUS: Revolutionizing Research Through Streamlined Literature Reviews
------------------------------------------------------------------------
+ARGUS is an innovative software application designed to streamline the process of literature reviews for researchers across various disciplines. By automating key tasks associated with literature reviews, ARGUS empowers researchers to conduct more efficient, accurate, and comprehensive reviews of existing literature. With ARGUS, researchers can effortlessly gather, analyze, and synthesize relevant research articles, accelerating the pace of scientific discovery and innovation.
 
-The cornerstone of scientific progress lies in the ability to effectively synthesize existing knowledge. Systematic reviews play a critical role in this process, offering researchers a comprehensive understanding of research within a specific domain. However, the traditional approach to conducting these reviews is often a laborious and error-prone endeavor. Manually sifting through vast collections of research articles, meticulously extracting relevant information, and synthesizing findings consumes significant research time and resources. This time-intensive process can hinder research progress and limit the depth of analysis.
+Potential Applications
+------------------------
 
-Introducing ARGUS
------------------
+ARGUS has a wide range of potential applications, including:
 
-ARGUS emerges as a software application designed to empower researchers by streamlining the literature review process. It functions as a one-stop solution, offering a suite of functionalities that automate key tasks and enhance information visualization. This user-friendly application aims to revolutionize the way researchers approach literature reviews, allowing them to dedicate more time to critical analysis and discovery.
+- Academic Research
+- Policy Development
+- Market Research
+- Healthcare and Biomedical Research
+
+Ready to experience the power of ARGUS? Let's get started!
