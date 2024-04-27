@@ -26,4 +26,4 @@ language = 'English'
 
 html_theme = 'sphinx-material'
 html_logo = 'images/arguslogo.png'
-html_static_path = ['_static']
+# html_static_path = ['_static']
