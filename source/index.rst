@@ -34,6 +34,14 @@ Ready to revolutionize your literature reviews? Let ARGUS lead the way!
 .. toctree::
    :hidden:
    :maxdepth: 10
+   :caption: How to use?
+
+   pages/howtouse1
+   pages/howtouse2
+
+.. toctree::
+   :hidden:
+   :maxdepth: 10
    :caption: Architecture
 
    pages/architecture1
