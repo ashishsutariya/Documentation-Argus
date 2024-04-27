@@ -1,29 +1,23 @@
-.. centered-title:: ARGUS: Automate Your Research & Unleash New Insights
+ARGUS: Automated Research Guidance & User Support
+==================================================
 
-.. centered-big:: Revolutionize your literature reviews with automated information extraction and data organization.
-
-.. image:: _images/cover_image.png
-   :width: 400px
+.. image:: _images/logo.png
    :align: center
 
-.. centered-button:: Download ARGUS
-   :href: download_link  # Replace with actual download link
+Welcome to ARGUS!
+-------------------
 
-.. or::
+Objective
+-----------
 
-.. centered-button:: Learn More about ARGUS
-   :href: more_info_link  # Replace with actual information page link
+ARGUS is an innovative tool designed to revolutionize the process of literature reviews for researchers across various disciplines. By automating key tasks involved in systematic reviews, ARGUS aims to enhance efficiency, accuracy, and data organization, ultimately empowering researchers to conduct more effective and comprehensive reviews of existing literature. ARGUS can be accessed from any web browser that supports JavaScript.
 
-**Benefits:**
+.. note::
+   
+   This project is under active development. Exciting new features and enhancements are on the horizon!
 
-* **Increased Efficiency** (Icon: `fa:clock-o` or similar)
-    - Save time analyzing research articles.
-* **Enhanced Accuracy** (Icon: `fa:check-circle` or similar)
-    - Minimize errors and ensure data consistency.
-* **Improved Data Organization** (Icon: `fa:table` or similar)
-    - Simplify analysis and comparison across articles.
-* **Deeper Research Exploration** (Icon: `fa:brain` or similar)
-    - Focus on critical thinking and in-depth analysis.
+Ready to embark on a journey of streamlined literature reviews? Let ARGUS be your guide!
+
 
 .. toctree::
    :hidden:
