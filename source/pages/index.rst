@@ -4,7 +4,7 @@ ARGUS: Automated Research Guidance & User Support
 .. image:: _images/logo.png
    :align: center
 
-Welcome to ARGUS!
+Welcome to ARGUS Tool!
 -------------------
 
 Introduction
