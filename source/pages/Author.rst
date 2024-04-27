@@ -1,6 +1,9 @@
 About the Developer
 ====================
 
+.. role::  raw-html(raw)
+    :format: html
+
 About Me
 --------
 
@@ -17,12 +20,9 @@ Connect with Me
 I welcome any feedback, questions, or collaboration opportunities related to ARGUS. Feel free to reach out to me via email or connect with me on GitHub:
 
 
-* Tarun Parmar <tparmar3@binghamton.edu> :raw-html:`<div class="github-profile-badge" data-user="ParmarTarun"></div>`
+* Ashish Sutariya <asutari1@binghamton.edu> :raw-html:`<div class="github-profile-badge" data-user="ParmarTarun"></div>`
 
 
 
 :raw-html:`<script src="https://cdn.jsdelivr.net/gh/Rapsssito/github-profile-badge@latest/src/widget.min.js"></script>`
 
-
-.. - Email: asutari1@binghamton.edu
-.. - GitHub: [Ashish Sutariya](https://github.com/ashishsutariya)
