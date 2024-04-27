@@ -30,6 +30,16 @@ Ready to revolutionize your literature reviews? Let ARGUS lead the way!
    pages/index
    pages/introduction
 
+.. toctree::
+   :hidden:
+   :maxdepth: 10
+   :caption: Architecture
+
+   pages/architecture1
+   pages/architecture2
+
+   .. pages/Reading and Scanning
+   .. pages/Future Advancements
 
 .. toctree::
    :hidden:
