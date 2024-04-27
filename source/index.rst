@@ -1,23 +1,29 @@
-.. argus documents documentation master file, created by
-   sphinx-quickstart on Thu Apr 25 23:45:46 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. centered-title:: ARGUS: Automate Your Research & Unleash New Insights
 
-Welcome to argus documents's documentation!
-===========================================
+.. centered-big:: Revolutionize your literature reviews with automated information extraction and data organization.
 
-Introduction
-============
+.. image:: _images/cover_image.png
+   :width: 400px
+   :align: center
 
-ARGUS: Revolutionizing Research Through Streamlined Literature Reviews
------------------------------------------------------------------------
+.. centered-button:: Download ARGUS
+   :href: download_link  # Replace with actual download link
 
-The cornerstone of scientific progress lies in the ability to effectively synthesize existing knowledge. Systematic reviews play a critical role in this process, offering researchers a comprehensive understanding of research within a specific domain. However, the traditional approach to conducting these reviews is often a laborious and error-prone endeavor. Manually sifting through vast collections of research articles, meticulously extracting relevant information, and synthesizing findings consumes significant research time and resources. This time-intensive process can hinder research progress and limit the depth of analysis.
+.. or::
 
-Introducing ARGUS
------------------
+.. centered-button:: Learn More about ARGUS
+   :href: more_info_link  # Replace with actual information page link
 
-ARGUS emerges as a software application designed to empower researchers by streamlining the literature review process. It functions as a one-stop solution, offering a suite of functionalities that automate key tasks and enhance information visualization. This user-friendly application aims to revolutionize the way researchers approach literature reviews, allowing them to dedicate more time to critical analysis and discovery.
+**Benefits:**
+
+* **Increased Efficiency** (Icon: `fa:clock-o` or similar)
+    - Save time analyzing research articles.
+* **Enhanced Accuracy** (Icon: `fa:check-circle` or similar)
+    - Minimize errors and ensure data consistency.
+* **Improved Data Organization** (Icon: `fa:table` or similar)
+    - Simplify analysis and comparison across articles.
+* **Deeper Research Exploration** (Icon: `fa:brain` or similar)
+    - Focus on critical thinking and in-depth analysis.
 
 .. toctree::
    :hidden:
