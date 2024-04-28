@@ -1,6 +1,6 @@
 
 
-.. image:: _images/intro.png
+.. image:: images/intro.png
    :align: center
 
 Welcome to ARGUS!
