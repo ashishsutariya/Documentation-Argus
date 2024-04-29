@@ -1,7 +1,8 @@
 ARGUS: Automated Research Guidance & User Support
 ==================================================
 
-.. image:: images/arguslogo.png
+
+.. figure:: /images/arguslogo.png
    :align: center
 
 Welcome to ARGUS!
