@@ -6,7 +6,7 @@ Overview
 
 .. figure:: /images/tutorial.jpg
    :align:: center
-   :width:: 100%
+
 
 ARGUS offers a streamlined process for conducting literature reviews, empowering researchers to efficiently extract relevant information from research articles. Below is a detailed guide on how to use ARGUS effectively:
 
