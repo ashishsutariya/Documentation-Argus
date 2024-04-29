@@ -30,7 +30,7 @@ language = 'English'
 html_theme = 'sphinx_rtd_theme'
 html_logo = 'images/arguslogo.png'
 html_static_path = ['_static']
-html_favicon = 'fav-icon.png'
+html_favicon = 'images/fav-icon.png'
 html_theme_options = {
     # 'analytics_id': 'G-XXXXXXXXXX',  #  Provided by Google in your dashboard
     # 'analytics_anonymize_ip': False,
