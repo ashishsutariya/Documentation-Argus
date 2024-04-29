@@ -6,6 +6,11 @@ Technologies Used
 **ARGUS: Automated Research Guidance & User Support**
 
 
+
+.. image:: images/techs.jpg
+   :align: center
+
+
 Front End:
 ----------
 
