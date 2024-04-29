@@ -9,6 +9,8 @@ Technologies Used
 
 .. image:: ./images/techs.jpg
    :align: center
+.. figure:: /images/techs.jpg
+   :align: center
 
 
 Front End:
