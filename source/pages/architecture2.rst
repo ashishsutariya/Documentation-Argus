@@ -7,6 +7,11 @@ ARGUS employs a modular architecture designed to streamline the literature revie
 
 **System Diagram**
 
+
+.. figure:: /images/arch2.jpg
+   :align: center
+
+
 The system diagram illustrates the flow of data and interactions between different components of ARGUS:
 
 1. **Front End (User Interface)**:

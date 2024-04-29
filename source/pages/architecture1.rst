@@ -1,9 +1,9 @@
 Technologies Used
 =====================
-.. figure:: /images/arguslogo.png
-   :align: center
-   :align: left
-   :height:10
+.. .. figure:: /images/arguslogo.png
+..    :align: center
+..    :align: left
+..    :height:10
 
 **ARGUS: Automated Research Guidance & User Support**
 
