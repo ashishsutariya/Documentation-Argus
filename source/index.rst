@@ -15,6 +15,8 @@ ARGUS, your ultimate research companion, is here to transform the way you conduc
 
 With ARGUS, interdisciplinary researchers can effortlessly survey research papers based on their provided keywords, swiftly gathering relevant literature to inform their studies. Say goodbye to the tedious manual process and embrace the efficiency of ARGUS. It's time to unlock new insights and propel your research forward!
 
+Try Argus: `ARGUS <https://sysrev.cs.binghamton.edu/argus>`
+
 .. note::
    
    Dive in and explore ARGUS's powerful features. Keep an eye out for future updates as we continue to enhance your research experience!
