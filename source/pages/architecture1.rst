@@ -7,7 +7,7 @@ Technologies Used
 
 
 
-.. image:: images/techs.jpg
+.. image:: ./images/techs.jpg
    :align: center
 
 
