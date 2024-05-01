@@ -79,5 +79,5 @@ Argus Tool Page:
   c. Re-Rank button helps user to run the ranking once again with updated terms.
   
 .. figure:: /images/argusrerank.png
-:align: center
+   :align: center
    
