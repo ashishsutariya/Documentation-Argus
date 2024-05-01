@@ -45,19 +45,22 @@ Argus Tool Page:
 
 
 * Click on "Upload Docs" button to add the research documents and Click to select the papers user wishes to analyze:
-
 .. figure:: /images/argusuploaddoc1.png
    :align: center
 
+* Click on "Upload Docs" button to add the research documents and Click to select the papers user wishes to analyze:
+.. figure:: /images/argusuploaddoc1.png
+   :align: center
 
 * Click again upload the selected papers user wishes to analyze:
 .. figure:: /images/argusuploaddocs2.png
    :align: center
 
-
 * Wait untill all the documents are uploaded:
 .. figure:: /images/argusuploaddocs4.png
    :align: center
+
+
 
 
 3. Run Analysis:
@@ -68,6 +71,7 @@ Argus Tool Page:
 * Click on "Update Ranks" button to start the analysis:
 .. figure:: /images/argusstartrank.png
    :align: center
+
 
 4. Review Extracted Data:
    Once the analysis is complete, review the extracted information within the designated form or output format. ARGUS presents the extracted data in an organized manner, making it easy for researchers to review and analyze. Take time to thoroughly examine the extracted data, ensuring that it aligns with the objectives of your literature review and provides the insights you require for your research.
