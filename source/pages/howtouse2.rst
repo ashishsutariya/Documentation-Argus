@@ -11,10 +11,27 @@ Overview
 
 ARGUS offers a streamlined process for conducting literature reviews, empowering researchers to efficiently extract relevant information from research articles. Below is a detailed guide on how to use ARGUS effectively:
 
+Go To Argus:
+   Click on "Go To Tool" button to go to ARGUS tool.
+
+.. figure:: /images/argushome.png
+   :align: center
+
+Argus Tool Page:
+   The Argus Tool page with the options for uploading documents, adding search terms, start/update ranks, go to home buttons.
+.. figure:: /images/argustool.png
+   :align: center 
+
 1. Define Keywords/Parameters:
    Start by defining the keywords or custom parameters that will guide ARGUS's focus during the analysis. These keywords should reflect the specific terms, phrases, or criteria relevant to your research objectives. Consider the key concepts, themes, or variables you want to explore within the literature.
-
-   .. image:: define_keywords.png
+   Open the add terms modal:
+   .. image:: argusaddterms.png
+      :align: center
+   Add terms individually or user can add multiple terms separated by ';' and clicking on "ADD" button:
+    .. image:: argusaddterms2.png
+      :align: center
+   Added terms in the terms list:
+    .. image:: argusaddterms3.png
       :align: center
 
 2. Upload Research Articles:
