@@ -22,7 +22,8 @@ Argus Tool Page:
 .. figure:: /images/argustool.png
    :align: center 
 
-1. Define Keywords/Parameters:
+
+Define Keywords/Parameters:
    Start by defining the keywords or custom parameters that will guide ARGUS's focus during the analysis. These keywords should reflect the specific terms, phrases, or criteria relevant to your research objectives. Consider the key concepts, themes, or variables you want to explore within the literature.
   
 
@@ -40,7 +41,7 @@ Argus Tool Page:
 .. figure:: /images/addterms4.png
    :align: center
 
-2. Upload Research Articles:
+Upload Research Articles:
    Once the keywords are defined, proceed to upload your research articles in PDF format. You can upload individual articles or batch upload multiple articles simultaneously. Ensure that the research articles cover the scope of your literature review and contain the relevant information you wish to extract.
 
 
@@ -57,13 +58,13 @@ Argus Tool Page:
    :align: center
 
 * Wait untill all the documents are uploaded:
-.. figure:: /images/argusuploaddocs4.png
+.. figure:: /images/argusuploaddocs3.png
    :align: center
 
 
 
 
-3. Run Analysis:
+Run Analysis:
 
    After uploading the research articles, initiate the analysis process. ARGUS will scan the uploaded articles and extract information based on the defined keywords or parameters. This analysis phase involves parsing through the content of each article, identifying sections relevant to the specified keywords, and extracting the necessary information.
 
@@ -73,7 +74,7 @@ Argus Tool Page:
    :align: center
 
 
-4. Review Extracted Data:
+Review Extracted Data:
    Once the analysis is complete, review the extracted information within the designated form or output format. ARGUS presents the extracted data in an organized manner, making it easy for researchers to review and analyze. Take time to thoroughly examine the extracted data, ensuring that it aligns with the objectives of your literature review and provides the insights you require for your research.
 
 
@@ -82,7 +83,7 @@ Argus Tool Page:
    :align: center
 
 
-5. See the analysis, results and highlighting terms for better understanding of context of terms present in document:
+See the analysis, results and highlighting terms for better understanding of context of terms present in document:
   
 * click on the analyze in the previous show ranks page:
 .. figure:: /images/argusanalysis.png
