@@ -24,15 +24,18 @@ Argus Tool Page:
 
 1. Define Keywords/Parameters:
    Start by defining the keywords or custom parameters that will guide ARGUS's focus during the analysis. These keywords should reflect the specific terms, phrases, or criteria relevant to your research objectives. Consider the key concepts, themes, or variables you want to explore within the literature.
+  
    Open the add terms modal:
-   .. image:: argusaddterms.png
-      :align: center
+.. figure:: argusaddterms.png
+   :align: center
+   
    Add terms individually or user can add multiple terms separated by ';' and clicking on "ADD" button:
-    .. image:: argusaddterms2.png
-      :align: center
+.. figure:: argusaddterms2.png
+   :align: center
+   
    Added terms in the terms list:
-    .. image:: argusaddterms3.png
-      :align: center
+.. figure:: argusaddterms3.png
+   :align: center
 
 2. Upload Research Articles:
    Once the keywords are defined, proceed to upload your research articles in PDF format. You can upload individual articles or batch upload multiple articles simultaneously. Ensure that the research articles cover the scope of your literature review and contain the relevant information you wish to extract.
