@@ -9,8 +9,9 @@ Technologies Used
 
 
 
-.. figure:: /images/techs.jpg
+.. figure:: /images/sarchi.jpg
    :align: center
+
 
 
 Front End:
@@ -40,3 +41,7 @@ ARGUS adopts a temporary storage approach for document data, where uploaded docu
 
 
 The technologies and components utilized in ARGUS play a crucial role in streamlining the literature review process for researchers. By leveraging frameworks like React.js and Express.js, along with specialized tools for PDF conversion and text extraction, ARGUS offers a robust and efficient platform for conducting literature reviews.
+
+
+.. figure:: /images/techs.jpg
+   :align: center
