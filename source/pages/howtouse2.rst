@@ -40,8 +40,18 @@ Argus Tool Page:
 2. Upload Research Articles:
    Once the keywords are defined, proceed to upload your research articles in PDF format. You can upload individual articles or batch upload multiple articles simultaneously. Ensure that the research articles cover the scope of your literature review and contain the relevant information you wish to extract.
 
-   .. image:: upload_articles.png
-      :align: center
+   Click on "Upload Docs" button to add the research documents and Click to select the papers user wishes to analyze:
+.. figure:: argusuploaddoc1.png
+   :align: center
+
+   Click again upload the selected papers user wishes to analyze:
+.. figure:: argusuploaddocs2.png
+   :align: center
+
+   Wait untill all the documents are uploaded:
+.. figure:: argusuploaddocs3.png
+   :align: center
+
 
 3. Run Analysis:
    After uploading the research articles, initiate the analysis process. ARGUS will scan the uploaded articles and extract information based on the defined keywords or parameters. This analysis phase involves parsing through the content of each article, identifying sections relevant to the specified keywords, and extracting the necessary information.
