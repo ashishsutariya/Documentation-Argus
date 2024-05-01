@@ -8,8 +8,6 @@ ARGUS: Automated Research Guidance & User Support
 Welcome to ARGUS!
 -------------------
 
-Introduction
---------------
 
 ARGUS is an innovative software application designed to revolutionize the literature review process for researchers across diverse academic disciplines. By automating key tasks associated with literature reviews, ARGUS empowers researchers to conduct more efficient, accurate, and comprehensive reviews of existing literature, saving time and effort. With its advanced functionalities and user-friendly interface, ARGUS streamlines the entire literature review process, facilitating the exploration of diverse research topics.
 

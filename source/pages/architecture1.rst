@@ -38,7 +38,5 @@ Data Storage:
 
 ARGUS adopts a temporary storage approach for document data, where uploaded documents are temporarily stored in server folders during processing. This temporary storage simplifies initial implementation and management of document data within the system.
 
-Conclusion
------------
 
 The technologies and components utilized in ARGUS play a crucial role in streamlining the literature review process for researchers. By leveraging frameworks like React.js and Express.js, along with specialized tools for PDF conversion and text extraction, ARGUS offers a robust and efficient platform for conducting literature reviews.

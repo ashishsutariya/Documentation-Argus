@@ -46,6 +46,5 @@ The interactions and flow within ARGUS can be summarized as follows:
    - Researchers navigate through retrieved documents and highlighted keywords using the front-end interface.
    - Keyword highlighting allows for rapid identification of relevant sections within documents.
 
-**Conclusion**
 
 The architecture of ARGUS facilitates efficient document retrieval, assisted reading, and information extraction for researchers conducting literature reviews. By leveraging front-end and back-end technologies, along with specialized tools for PDF conversion and text extraction, ARGUS provides a comprehensive platform for researchers to streamline their literature review process.

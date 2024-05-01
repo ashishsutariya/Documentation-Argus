@@ -32,7 +32,5 @@ ARGUS employs a modular architecture designed for efficiency and scalability, co
 
 4. Data Processing Libraries: Leveraging libraries like Python2HTMLex and pdf-dist, ARGUS converts PDFs to HTML, extracts text content, and calculates cosine similarity scores for document retrieval.
 
-Conclusion
-----------
 
 ARGUS, with its modular architecture and specific technology stack, delivers efficient and scalable functionalities for researchers conducting literature reviews. As ARGUS continues to evolve, upgrades to data storage solutions and integration of additional libraries will enhance its capabilities, further empowering researchers in their pursuit of knowledge and discovery.
