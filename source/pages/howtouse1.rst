@@ -10,32 +10,24 @@ Overview
 
 ARGUS offers a streamlined process for conducting literature reviews, empowering researchers to efficiently extract relevant information from research articles. Below is a detailed guide on how to use ARGUS effectively:
 
-1. Define Keywords/Parameters:
-   Start by defining the keywords or custom parameters that will guide ARGUS's focus during the analysis. These keywords should reflect the specific terms, phrases, or criteria relevant to your research objectives. Consider the key concepts, themes, or variables you want to explore within the literature.
+Guide
 
-   .. image:: define_keywords.png
-      :align: center
+* Define Your Focus:
 
-2. Upload Research Articles:
-   Once the keywords are defined, proceed to upload your research articles in PDF format. You can upload individual articles or batch upload multiple articles simultaneously. Ensure that the research articles cover the scope of your literature review and contain the relevant information you wish to extract.
+Start by identifying the key terms, phrases, or research questions that will guide your literature review.  Consider the specific aspects you want to explore within the existing literature.  This will help you create effective keywords for ARGUS to utilize during the analysis.
 
-   .. image:: upload_articles.png
-      :align: center
+* Feed ARGUS:
 
-3. Run Analysis:
-   After uploading the research articles, initiate the analysis process. ARGUS will scan the uploaded articles and extract information based on the defined keywords or parameters. This analysis phase involves parsing through the content of each article, identifying sections relevant to the specified keywords, and extracting the necessary information.
+Upload the research articles relevant to your topic.  ARGUS accepts PDF format and allows you to upload individual articles or utilize the batch upload feature for efficiency.
 
-   .. image:: run_analysis.png
-      :align: center
+* Let ARGUS Analyze:
 
-4. Review Extracted Data:
-   Once the analysis is complete, review the extracted information within the designated form or output format. ARGUS presents the extracted data in an organized manner, making it easy for researchers to review and analyze. Take time to thoroughly examine the extracted data, ensuring that it aligns with the objectives of your literature review and provides the insights you require for your research.
+Once you've uploaded your articles, ARGUS will take over the heavy lifting.  Its intelligent analysis engine will scan each article and identify sections relevant to your defined keywords.  ARGUS then extracts the key data from these sections, saving you valuable time and effort.
 
-   .. image:: review_data.png
-      :align: center
+* Review and Analyze:
 
-5. Refine (Optional):
-   If needed, users have the option to refine the extraction rules or parameters for more precise results. This step allows researchers to fine-tune ARGUS's analysis based on their evolving research needs or specific requirements. Refinement may involve adjusting keyword definitions, modifying extraction criteria, or revising parameters to better align with research objectives.
+ARGUS presents the extracted data in a clear and organized format, making review and analysis a breeze.  Carefully review the data to ensure it aligns with your research objectives and provides the insights you need to move forward.
 
-   .. image:: refine_parameters.png
-      :align: center
+* Refine for Precision (Optional):
+
+For even more focused results, ARGUS allows you to refine the extraction rules.  This may involve adjusting your keywords, modifying the extraction criteria, or revising parameters to better align with your research needs.
