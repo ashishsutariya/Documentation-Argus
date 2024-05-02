@@ -8,26 +8,17 @@ Overview
    :align: center
 
 
+ARGUS: Streamline Your Literature Reviews
 ARGUS offers a streamlined process for conducting literature reviews, empowering researchers to efficiently extract relevant information from research articles. Below is a detailed guide on how to use ARGUS effectively:
 
 Guide
 
-* Define Your Focus:
+* Define Your Focus: Identify key terms, phrases, or research questions. Consider specific aspects you want to explore in the literature to create effective keywords for ARGUS analysis.
 
-Start by identifying the key terms, phrases, or research questions that will guide your literature review.  Consider the specific aspects you want to explore within the existing literature.  This will help you create effective keywords for ARGUS to utilize during the analysis.
+* Feed ARGUS: Upload research articles (PDF format) individually or utilize batch upload for efficiency.
 
-* Feed ARGUS:
+* Let ARGUS Analyze: ARGUS scans each uploaded article, identifying sections relevant to your defined keywords. It then extracts key data, saving you valuable time.
 
-Upload the research articles relevant to your topic.  ARGUS accepts PDF format and allows you to upload individual articles or utilize the batch upload feature for efficiency.
+* Review and Analyze: ARGUS presents the extracted data in a clear and organized format for easy review and analysis. Ensure it aligns with your research objectives and provides the insights you need.
 
-* Let ARGUS Analyze:
-
-Once you've uploaded your articles, ARGUS will take over the heavy lifting.  Its intelligent analysis engine will scan each article and identify sections relevant to your defined keywords.  ARGUS then extracts the key data from these sections, saving you valuable time and effort.
-
-* Review and Analyze:
-
-ARGUS presents the extracted data in a clear and organized format, making review and analysis a breeze.  Carefully review the data to ensure it aligns with your research objectives and provides the insights you need to move forward.
-
-* Refine for Precision (Optional):
-
-For even more focused results, ARGUS allows you to refine the extraction rules.  This may involve adjusting your keywords, modifying the extraction criteria, or revising parameters to better align with your research needs.
+* Refine for Precision (Optional): For even more focused results, refine extraction rules by adjusting keywords, modifying criteria, or revising parameters to better align with your research needs.
