@@ -7,8 +7,6 @@ Technologies Used
 
 **ARGUS: Automated Research Guidance & User Support**
 
-
-
 .. figure:: /images/sarchi.jpg
    :align: center
 
